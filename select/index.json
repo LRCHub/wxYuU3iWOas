@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "五月は花緑青の窓辺から",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2026-02-19T07:53:54.482267Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "五月は花緑青の窓辺から",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_五月は花緑青の窓辺から_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "五月は花緑青の窓辺から",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_五月は花緑青の窓辺から_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "五月は花緑青の窓辺から",
+      "artist": "ヨルシカ (Yorushika、n-buna ナブナ、suis)",
+      "has_synced": true,
+      "path": "select/03_五月は花緑青の窓辺から_ヨルシカ_(Yorushika、n-buna_ナブナ、suis).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "五月は花緑青の窓辺から",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_五月は花緑青の窓辺から_ヨルシカ.txt"
+    }
+  ]
+}
